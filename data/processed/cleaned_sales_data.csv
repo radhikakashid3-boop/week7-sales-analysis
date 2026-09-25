@@ -1,0 +1,37 @@
+order_id,customer_id,product_id,product_name,category,city,order_date,quantity,unit_price,total_amount
+1001,C001,P001,Laptop,Electronics,Pune,2024-01-05,1,55000,55000
+1002,C002,P002,Mobile Phone,Electronics,Mumbai,2024-01-08,2,25000,50000
+1003,C003,P003,Headphones,Electronics,Nashik,2024-01-15,3,1500,4500
+1004,C004,P004,Running Shoes,Sports,Pune,2024-01-20,2,3000,6000
+1005,C005,P005,Cricket Bat,Sports,Mumbai,2024-01-25,1,4500,4500
+1006,C006,P006,Office Chair,Furniture,Nashik,2024-02-03,2,7500,15000
+1007,C007,P007,Study Table,Furniture,Pune,2024-02-10,1,9000,9000
+1008,C008,P008,T-Shirt,Clothing,Mumbai,2024-02-15,4,800,3200
+1009,C009,P009,Jeans,Clothing,Nashik,2024-02-18,2,1800,3600
+1010,C010,P010,Python Book,Books,Pune,2024-02-25,3,700,2100
+1011,C001,P011,Data Science Book,Books,Mumbai,2024-03-02,2,900,1800
+1012,C002,P012,Monitor,Electronics,Nashik,2024-03-08,2,12000,24000
+1013,C003,P013,Keyboard,Electronics,Pune,2024-03-12,3,1200,3600
+1014,C004,P014,Football,Sports,Mumbai,2024-03-18,2,1800,3600
+1015,C005,P015,Sports Bag,Sports,Nashik,2024-03-22,1,2500,2500
+1016,C006,P016,Sofa,Furniture,Pune,2024-04-05,1,25000,25000
+1017,C007,P017,Bookshelf,Furniture,Mumbai,2024-04-10,1,8500,8500
+1018,C008,P018,Jacket,Clothing,Nashik,2024-04-15,2,3500,7000
+1019,C009,P019,Dress,Clothing,Pune,2024-04-20,1,2800,2800
+1020,C010,P020,Java Book,Books,Mumbai,2024-04-25,4,650,2600
+1021,C001,P021,Python Course,Books,Nashik,2024-05-03,2,1500,3000
+1022,C002,P022,Tablet,Electronics,Pune,2024-05-08,1,22000,22000
+1023,C003,P023,Smart Watch,Electronics,Mumbai,2024-05-15,2,5000,10000
+1024,C004,P024,Tennis Racket,Sports,Nashik,2024-05-20,1,4000,4000
+1025,C005,P025,Yoga Mat,Sports,Pune,2024-05-25,3,1000,3000
+1026,C006,P026,Dining Table,Furniture,Mumbai,2024-06-03,1,18000,18000
+1027,C007,P027,Bed,Furniture,Nashik,2024-06-10,1,30000,30000
+1028,C008,P028,Shirt,Clothing,Pune,2024-06-15,3,1200,3600
+1029,C009,P029,Shoes,Clothing,Mumbai,2024-06-20,2,2500,5000
+1030,C010,P030,SQL Book,Books,Nashik,2024-06-25,2,800,1600
+1031,C001,P001,Laptop,Electronics,Pune,2024-07-05,1,55000,55000
+1032,C002,P004,Running Shoes,Sports,Mumbai,2024-07-12,2,3000,6000
+1033,C003,P007,Study Table,Furniture,Nashik,2024-08-05,1,9000,9000
+1034,C004,P010,Python Book,Books,Pune,2024-08-15,3,700,2100
+1035,C005,P018,Jacket,Clothing,Mumbai,2024-09-10,1,3500,3500
+1036,C006,P012,Monitor,Electronics,Nashik,2024-10-05,1,12000,12000
