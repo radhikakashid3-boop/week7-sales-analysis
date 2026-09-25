@@ -1,0 +1,52 @@
+SALES DATA ANALYSIS REPORT
+==========================
+
+BASIC STATISTICS
+----------------
+Total Sales: 422100.00
+Average Order Value: 11725.00
+Total Orders: 36
+Unique Customers: 10
+Unique Products: 30
+Total Quantity Sold: 67
+
+TOP PRODUCT CATEGORY
+--------------------
+Electronics: 236100.00
+
+TOP PRODUCT
+-----------
+Laptop
+
+PEAK SALES MONTH
+----------------
+2024-01: 120000.00
+
+TOP CITY
+--------
+Pune: 189200.00
+
+MONTHLY SALES
+-------------
+         total_sales  total_quantity  unique_customers  order_count  growth_rate
+month                                                                           
+2024-01       120000               9                 5            5          NaN
+2024-02        32900              12                 5            5   -72.583333
+2024-03        35500              10                 5            5     7.902736
+2024-04        45900               9                 5            5    29.295775
+2024-05        42000               9                 5            5    -8.496732
+2024-06        58200               9                 5            5    38.571429
+2024-07        61000               3                 2            2     4.810997
+2024-08        11100               4                 2            2   -81.803279
+2024-09         3500               1                 1            1   -68.468468
+2024-10        12000               1                 1            1   242.857143
+
+TOP PRODUCTS
+------------
+                         total_sales  quantity_sold
+product_id product_name                            
+P001       Laptop             110000              2
+P002       Mobile Phone        50000              2
+P012       Monitor             36000              3
+P027       Bed                 30000              1
+P016       Sofa                25000              1
